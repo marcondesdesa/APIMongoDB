@@ -1,0 +1,9 @@
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Dominio\bin\Debug\netcoreapp3.1\Mongo.Dominio.deps.json
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Dominio\bin\Debug\netcoreapp3.1\Mongo.Dominio.dll
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Dominio\obj\Debug\netcoreapp3.1\Mongo.Dominio.AssemblyInfoInputs.cache
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Dominio\obj\Debug\netcoreapp3.1\Mongo.Dominio.AssemblyInfo.cs
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Dominio\bin\Debug\netcoreapp3.1\Mongo.Dominio.pdb
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Dominio\obj\Debug\netcoreapp3.1\Mongo.Dominio.csproj.CoreCompileInputs.cache
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Dominio\obj\Debug\netcoreapp3.1\Mongo.Dominio.dll
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Dominio\obj\Debug\netcoreapp3.1\Mongo.Dominio.pdb
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Dominio\obj\Debug\netcoreapp3.1\Mongo.Dominio.GeneratedMSBuildEditorConfig.editorconfig
