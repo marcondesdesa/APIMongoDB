@@ -1,0 +1,13 @@
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\bin\Release\netcoreapp3.1\Mongo.Infra.deps.json
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\bin\Release\netcoreapp3.1\Mongo.Infra.dll
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\bin\Release\netcoreapp3.1\Mongo.Infra.pdb
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\bin\Release\netcoreapp3.1\Mongo.Dominio.dll
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\bin\Release\netcoreapp3.1\Mongo.Dominio.pdb
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\obj\Release\netcoreapp3.1\Mongo.Infra.csproj.AssemblyReference.cache
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\obj\Release\netcoreapp3.1\Mongo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\obj\Release\netcoreapp3.1\Mongo.Infra.AssemblyInfoInputs.cache
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\obj\Release\netcoreapp3.1\Mongo.Infra.AssemblyInfo.cs
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\obj\Release\netcoreapp3.1\Mongo.Infra.csproj.CoreCompileInputs.cache
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\obj\Release\netcoreapp3.1\Mongo.Infra.csproj.CopyComplete
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\obj\Release\netcoreapp3.1\Mongo.Infra.dll
+D:\Faculdade\6TERMO\MongoDB\CLTesteMongo\Mongo.Infra\obj\Release\netcoreapp3.1\Mongo.Infra.pdb
